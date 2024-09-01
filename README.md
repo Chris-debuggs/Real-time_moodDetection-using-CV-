@@ -85,7 +85,7 @@ Feel free to fork this repository, submit issues, or contribute by opening pull 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/Chris-debuggs/Real-time_moodDetection-using-CV-/blob/main/LICENSE).
 
 ## Acknowledgments
 
