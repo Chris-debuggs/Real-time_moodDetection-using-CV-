@@ -31,7 +31,7 @@ You can install the necessary Python packages using `pip`:
 1. **Clone the repository:**
     
         
-    `git clone https://github.com/Chris-debuggs/Real-time_moodDetection-using-CV-.git cd mood-detection`
+    `git clone https://github.com/Chris-debuggs/Real-time_moodDetection-using-CV-.git`
     
 2. **Download or place your pre-trained model** in the root of the repository. The model file should be named `mood_model.keras` or update the script to point to your model file location.
     
